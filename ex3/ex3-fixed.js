@@ -20,6 +20,7 @@ NotesManager.prototype.addCurrentNote = function() {
 	}
 };
 
+
 NotesManager.prototype.showHelp = function() {
 	var self = this;
 	self.$help.show();
